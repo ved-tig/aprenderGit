@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 helllll
+=======
+hello00
+>>>>>>> front
